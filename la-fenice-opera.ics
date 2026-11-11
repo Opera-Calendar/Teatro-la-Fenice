@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Opera Calendar//La Fenice//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Teatro La Fenice - Opera
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+UID:fedora-13112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261113T190000
+DTEND;TZID=Europe/Rome:20261113T211000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-14112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261114T153000
+DTEND;TZID=Europe/Rome:20261114T174000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-15112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261115T153000
+DTEND;TZID=Europe/Rome:20261115T174000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-17112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261117T190000
+DTEND;TZID=Europe/Rome:20261117T211000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-18112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261118T190000
+DTEND;TZID=Europe/Rome:20261118T211000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-19112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261119T190000
+DTEND;TZID=Europe/Rome:20261119T211000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-20112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261120T190000
+DTEND;TZID=Europe/Rome:20261120T211000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fedora-22112026@laf-enice-opera
+DTSTAMP:20261111T210000Z
+DTSTART;TZID=Europe/Rome:20261122T153000
+DTEND;TZID=Europe/Rome:20261122T174000
+SUMMARY:Fedora - La Fenice
+LOCATION:Teatro La Fenice\, Venezia\, Italia
+DESCRIPTION:Direzione Donato Renzetti. Cast varies by date. Source: https://www.teatrolafenice.it/event/fedora/
+URL:https://www.teatrolafenice.it/event/fedora/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 90 days before
+TRIGGER:-P90D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 30 days before
+TRIGGER:-P30D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 7 days before
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fedora - 1 days before
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
